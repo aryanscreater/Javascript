@@ -2,6 +2,7 @@
 // toUpperCase()
 // toLowerCase()
 // slice()
+// variable ka name dot krne par koi procedure hm karte hai
 
 // let firstName = "    Aryan kumar ojha    "
 // console.log(firstName)
